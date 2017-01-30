@@ -1,16 +1,13 @@
 {
-  "name": "auto-bind",
+  "name": "auto-bind-es5",
   "version": "1.1.0",
-  "description": "Automatically bind methods to their class instance",
+  "description": "Automatically bind methods to their class instance (es5)",
   "license": "MIT",
-  "repository": "sindresorhus/auto-bind",
+  "repository": "rtsao/auto-bind-es5",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=4"
   },
   "scripts": {
     "test": "xo && ava"
