@@ -6,14 +6,14 @@
 ## Install
 
 ```
-$ npm install --save auto-bind
+$ npm install --save auto-bind-es5
 ```
 
 
 ## Usage
 
 ```js
-const autoBind = require('auto-bind');
+const autoBind = require('auto-bind-es5');
 
 class Unicorn {
 	constructor(name) {
